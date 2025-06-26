@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, mi nombre es Manuel Dominguez</h1>
 <h3 align="center">Full-Stack developer</h3>
 
-- 📫 Contactame **manuel258.md@gmail.com**
+- 📫 Contáctame **manuel258.md@gmail.com**
+- 
 
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
