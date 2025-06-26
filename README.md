@@ -7,7 +7,7 @@
 
 - 📫 Contáctame **manuel258.md@gmail.com**
 
-- ⚡ Dato Curioso **Me gusta aprender, también poder enseñar.**
+- ⚡ Dato Curioso **Me gusta aprender, también me gusta poder enseñar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
